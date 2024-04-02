@@ -1,0 +1,101 @@
+header i{
+    margin-right:15px ;
+}
+#navbarSupportedContent ul li a:hover{
+    background-color: rgba(0, 0, 0, 0.796);
+    color: aliceblue;
+
+}
+
+/*#navbarSupportedContent{
+    margin-left: 100px;
+}*/
+#navbarSupportedContent a{
+    margin-right: 15px;
+}
+ .bar{
+    width: 55vw;
+}
+.i{
+    padding-right: 150px;
+}
+.img img{
+}
+.container1{
+    margin-top: 60px;
+    margin-left: 150px;
+
+}
+.content{
+    padding-left: 30px;
+}
+.cards-container{
+    /margin-top: 20px;/
+    margin-top: 0%;
+    gap: 30px;
+    margin: 120px 120px;
+}
+.cards{
+    margin-top: 0%;
+    width: 45vw;
+    height: 45vh;
+    margin-left: 10px;
+}
+.text{
+    font-family:Roboto;
+    margin-top: 20px;
+}.image img{
+    width: 20vw;
+}
+.image1 img{
+    width: 20vw;
+    height:35vh ;
+}
+.text1{
+    font-family: Roboto;
+    padding-top: 20px;
+}
+.image2 img{
+    width: 20vw;
+    height:35vh ;
+    
+}.butt button{
+    margin-left: 60vw;
+    margin-top: 150px;
+}
+.butt h5{
+    padding-left:100px;
+    margin-top: 150px;
+}
+.heading{
+    text-align: center;
+    padding-top: 50px;
+} .smallcards{
+    gap:40px;
+    display: flex;
+    margin-left: 10vw;
+
+}.quote{
+    text-align: center;
+}
+.c{
+    width: 25vw ;
+}
+
+.container2{
+    width: 100vw;
+    height:60vh;
+}
+.container3 h2{
+    text-align: center;
+}
+.container3 button{
+    display: flex;
+    justify-content: center;
+}.links{
+    gap: 160px;
+    margin-left:8vw;
+    margin-top: 50px;
+}.navbar i{
+    margin-right: 40px;
+}
